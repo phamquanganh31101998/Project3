@@ -1,0 +1,2 @@
+﻿Kết quả đồ án 3, đề tài Xây dựng trang Web bán đồ thể thao
+Đầu tiên hãy import file project3_web.sql và MySQL, sau đó hãy config lại file môi trường trong .env.example cho phù hợp rồi xóa đuôi example đi, rồi chạy composer install, cuối cùng chạy php artisan serve
